@@ -17124,3 +17124,76 @@ Make sure 'ThirdPersonGameMode_C' has been compiled for  Add Target Points
 [2021.04.15-00.08.51:895][329]AssetCheck: New page: Asset Save: point
 [2021.04.15-00.08.51:895][329]LogContentValidation: Display: Validating Blueprint /Game/skeeball/staticmeshes/point.point
 [2021.04.15-00.08.55:023][474]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2021.04.15-00.15.45:256][711]Cmd: DELETE
+[2021.04.15-00.15.45:256][711]Cmd: ACTOR DELETE
+[2021.04.15-00.15.45:350][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:353][711]LogEditorActor: Deleted Actor: b_2_C
+[2021.04.15-00.15.45:354][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:356][711]LogEditorActor: Deleted Actor: b_2_C
+[2021.04.15-00.15.45:357][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:358][711]LogEditorActor: Deleted Actor: b_2_C
+[2021.04.15-00.15.45:360][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:361][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:362][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:364][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:365][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:366][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:367][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:369][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:370][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:371][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:373][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:374][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:375][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:377][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:378][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:379][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:381][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:382][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:383][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:384][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:386][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:387][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:388][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:389][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:390][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:392][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:393][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:394][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:396][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:397][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:398][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:399][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:400][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:402][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:404][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:405][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:407][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:409][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:410][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:412][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:413][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:415][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:416][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:417][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:418][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:419][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:421][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:422][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:423][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:424][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:426][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:427][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:428][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:429][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:430][711]LogEditorActor: Deleted Actor: b_C
+[2021.04.15-00.15.45:521][711]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2021.04.15-00.15.45:526][711]LogEditorActor: Deleted 61 Actors (0.269 secs)
+[2021.04.15-00.15.47:660][843]LogEditorViewport: Clicking on Actor (LMB): skee-ball_C (skee-ball)
+[2021.04.15-00.15.55:454][315]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.04.15-00.15.55:818][315]LogSavePackage: Moving '../../../../../../Users/delan/OneDrive/Documents/GitHub/Game_Engine_Assignmwnt/GameEngine_Assign/Saved/ThirdPersonExampleMap034D429C4F4A401569949C997A5482F5.tmp' to '../../../../../../Users/delan/OneDrive/Documents/GitHub/Game_Engine_Assignmwnt/GameEngine_Assign/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.15-00.15.55:940][315]LogSavePackage: Moving '../../../../../../Users/delan/OneDrive/Documents/GitHub/Game_Engine_Assignmwnt/GameEngine_Assign/Saved/ThirdPersonExampleMap_BuiltData6AB883D1462112B19E5D16B338225ED1.tmp' to '../../../../../../Users/delan/OneDrive/Documents/GitHub/Game_Engine_Assignmwnt/GameEngine_Assign/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.04.15-00.15.55:966][315]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.15-00.15.55:966][315]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.15-00.15.55:966][315]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.04.15-00.15.57:154][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
