@@ -17068,3 +17068,59 @@ pickupcube_C.ReceiveTick
 [2021.04.15-00.04.36:629][234]LogContentValidation: Display: Validating Material /Game/level2/IsOn.IsOn
 [2021.04.15-00.04.36:629][234]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
 [2021.04.15-00.04.36:629][234]LogContentValidation: Display: Validating Blueprint /Game/skeeball/staticmeshes/point.point
+[2021.04.15-00.07.13:622][187]BlueprintLog: New page: Compile point
+[2021.04.15-00.07.13:660][187]LogBlueprint: Error: [AssetLog] C:\Users\delan\OneDrive\Documents\GitHub\Game_Engine_Assignmwnt\GameEngine_Assign\Content\skeeball\staticmeshes\point.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Add Target Points . Please refresh node or break links to remove pin.
+[2021.04.15-00.07.13:660][187]LogBlueprint: Error: [AssetLog] C:\Users\delan\OneDrive\Documents\GitHub\Game_Engine_Assignmwnt\GameEngine_Assign\Content\skeeball\staticmeshes\point.uasset: [Compiler] In use pin  Target  no longer exists on node  Add Target Points . Please refresh node or break links to remove pin.
+[2021.04.15-00.07.13:661][187]LogBlueprint: Error: [AssetLog] C:\Users\delan\OneDrive\Documents\GitHub\Game_Engine_Assignmwnt\GameEngine_Assign\Content\skeeball\staticmeshes\point.uasset: [Compiler] In use pin  Addpoint  no longer exists on node  Add Target Points . Please refresh node or break links to remove pin.
+[2021.04.15-00.07.13:661][187]LogBlueprint: Error: [AssetLog] C:\Users\delan\OneDrive\Documents\GitHub\Game_Engine_Assignmwnt\GameEngine_Assign\Content\skeeball\staticmeshes\point.uasset: [Compiler] Could not find a function named "AddTargetPoints" in 'ThirdPersonGameMode_C'.
+Make sure 'ThirdPersonGameMode_C' has been compiled for  Add Target Points
+[2021.04.15-00.07.13:797][187]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2021.04.15-00.07.27:372][746]LogEditorTransaction: Undo Create Pin Link
+[2021.04.15-00.07.27:402][746]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.07.27:402][746]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.07.27:402][746]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.07.27:403][746]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.07.27:403][746]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.07.27:403][746]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.07.27:403][746]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.07.27:403][746]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.07.27:403][746]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.07.27:528][746]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.07.27:528][746]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.07.27:528][746]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.07.27:529][746]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.07.27:529][746]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.07.27:529][746]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.07.27:530][746]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.07.27:530][746]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.07.27:530][746]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.08.50:820][298]BlueprintLog: New page: Compile point
+[2021.04.15-00.08.50:833][298]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.08.50:833][298]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.08.50:833][298]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.08.50:834][298]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.08.50:834][298]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.08.50:834][298]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.08.50:950][298]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2021.04.15-00.08.50:958][298]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.08.50:958][298]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.08.50:958][298]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.08.50:958][298]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.08.50:958][298]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.08.50:958][298]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.08.50:958][298]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.08.50:958][298]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.08.50:959][298]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.08.50:984][298]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.08.50:985][298]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.08.50:985][298]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.08.50:985][298]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.08.50:985][298]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.08.50:985][298]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.08.50:985][298]LogPhysics: Warning: Scale for /Engine/Transient.World_44:PersistentLevel.point_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2021.04.15-00.08.50:985][298]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.15-00.08.50:985][298]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.15-00.08.51:870][329]LogSavePackage: Moving '../../../../../../Users/delan/OneDrive/Documents/GitHub/Game_Engine_Assignmwnt/GameEngine_Assign/Saved/point272D538544929869D228B983D40E3D61.tmp' to '../../../../../../Users/delan/OneDrive/Documents/GitHub/Game_Engine_Assignmwnt/GameEngine_Assign/Content/skeeball/staticmeshes/point.uasset'
+[2021.04.15-00.08.51:895][329]AssetCheck: New page: Asset Save: point
+[2021.04.15-00.08.51:895][329]LogContentValidation: Display: Validating Blueprint /Game/skeeball/staticmeshes/point.point
+[2021.04.15-00.08.55:023][474]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
