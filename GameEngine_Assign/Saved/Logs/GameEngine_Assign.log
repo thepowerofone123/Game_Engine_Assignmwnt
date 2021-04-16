@@ -7961,3 +7961,9 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.04.16-18.25.41:497][942]LogSavePackage: Moving '../../../../../../Users/delan/OneDrive/Documents/GitHub/Game_Engine_Assignmwnt/GameEngine_Assign/Saved/test9A726A8A47974E0B68AD468E471D2AA0.tmp' to '../../../../../../Users/delan/OneDrive/Documents/GitHub/Game_Engine_Assignmwnt/GameEngine_Assign/Content/skeeball/staticmeshes/test.uasset'
 [2021.04.16-18.25.41:514][942]AssetCheck: New page: Asset Save: test
 [2021.04.16-18.25.41:514][942]LogContentValidation: Display: Validating Blueprint /Game/skeeball/staticmeshes/test.test
+[2021.04.16-18.35.31:790][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.04.16-18.35.31:793][340]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.052
+[2021.04.16-18.35.31:793][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/skeeball/staticmeshes/NewPlayerController] ([1] browsable assets)...
+[2021.04.16-18.35.31:793][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/skeeball/staticmeshes/NewPlayerController]
+[2021.04.16-18.35.31:807][340]LogSavePackage: Moving '../../../../../../Users/delan/OneDrive/Documents/GitHub/Game_Engine_Assignmwnt/GameEngine_Assign/Saved/NewPlayerController_Auto38C0B16E643030ABACC3235B92F415F72.tmp' to '../../../../../../Users/delan/OneDrive/Documents/GitHub/Game_Engine_Assignmwnt/GameEngine_Assign/Saved/Autosaves/Game/skeeball/staticmeshes/NewPlayerController_Auto3.uasset'
+[2021.04.16-18.35.31:810][340]LogFileHelpers: Auto-saving content packages took 0.017
