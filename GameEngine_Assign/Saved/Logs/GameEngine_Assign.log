@@ -1910,3 +1910,28 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.04.17-20.56.31:370][116]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.04.17-20.56.31:370][116]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.04.17-20.56.37:917][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.04.17-23.31.19:186][480]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.17-23.31.19:223][480]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.17-23.31.19:223][480]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-00.54.30:326][481]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.18-00.54.30:358][481]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-00.54.30:358][481]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-00.54.31:281][482]LogHttp: Warning: 0000018CDB97A400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE445FD0D-434E-03D0-9F52-31A9990A52FC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=4f392d834b6424953a9a5caf8efde5f3%7C0b4a803a40164a29859f1c2646190838%7C605c2be0-482b-4f04-b19c-70404cfd24a5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.18-00.54.31:281][482]LogHttp: Warning: 0000018CDB97A400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.04.18-00.54.31:281][482]LogHttp: Warning: 0000018CDB97A400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x18bd7da1b10 [can pipeline])
+[2021.04.18-00.54.31:281][482]LogHttp: Warning: 0000018CDB97A400: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2021.04.18-00.54.31:281][482]LogHttp: Warning: 0000018CDB97A400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.226.166.158) port 443 (#4))
+[2021.04.18-00.54.31:281][482]LogHttp: Warning: 0000018CDB97A400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.04.18-00.54.31:281][482]LogHttp: Warning: 0000018CDB97A400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.04.18-00.54.31:281][482]LogHttp: Warning: 0000018CDB97A400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.04.18-00.54.31:282][482]LogHttp: Warning: 0000018CDB97A400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.04.18-00.54.31:282][482]LogHttp: Warning: 0000018CDB97A400: libcurl info message cache 7 (Closing connection 4)
+[2021.04.18-00.54.31:282][482]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE445FD0D-434E-03D0-9F52-31A9990A52FC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=4f392d834b6424953a9a5caf8efde5f3%7C0b4a803a40164a29859f1c2646190838%7C605c2be0-482b-4f04-b19c-70404cfd24a5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.18-02.44.32:438][176]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{66e037db-1799-4224-b89b-1503fd047440}.
+[2021.04.18-02.44.32:438][176]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.18-02.44.32:532][176]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-02.44.32:533][176]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-03.08.39:457][490]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{adee4550-4af0-48d9-8134-aa6646a7b1a4}.
+[2021.04.18-03.08.39:457][490]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.18-03.08.39:561][490]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-03.08.39:561][490]LogAudioMixer: Display: 1: FrontRight
